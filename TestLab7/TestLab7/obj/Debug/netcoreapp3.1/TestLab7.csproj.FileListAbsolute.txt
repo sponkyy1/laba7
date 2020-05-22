@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\bin\Debug\netcoreapp3.1\TestLab7.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\bin\Debug\netcoreapp3.1\TestLab7.deps.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\bin\Debug\netcoreapp3.1\TestLab7.runtimeconfig.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\bin\Debug\netcoreapp3.1\TestLab7.runtimeconfig.dev.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\bin\Debug\netcoreapp3.1\TestLab7.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\bin\Debug\netcoreapp3.1\TestLab7.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.AssemblyInfoInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.AssemblyInfo.cs
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\TestLab7\TestLab7\obj\Debug\netcoreapp3.1\TestLab7.genruntimeconfig.cache

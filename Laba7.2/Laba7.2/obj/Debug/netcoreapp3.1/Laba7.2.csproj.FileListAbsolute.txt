@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.AssemblyInfoInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.AssemblyInfo.cs
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\bin\Debug\netcoreapp3.1\Laba7.2.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\bin\Debug\netcoreapp3.1\Laba7.2.deps.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\bin\Debug\netcoreapp3.1\Laba7.2.runtimeconfig.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\bin\Debug\netcoreapp3.1\Laba7.2.runtimeconfig.dev.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\bin\Debug\netcoreapp3.1\Laba7.2.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\bin\Debug\netcoreapp3.1\Laba7.2.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\Laba7.2\Laba7.2\obj\Debug\netcoreapp3.1\Laba7.2.genruntimeconfig.cache

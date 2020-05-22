@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\bin\Debug\netcoreapp3.1\laba7.2.2.1.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\bin\Debug\netcoreapp3.1\laba7.2.2.1.deps.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\bin\Debug\netcoreapp3.1\laba7.2.2.1.runtimeconfig.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\bin\Debug\netcoreapp3.1\laba7.2.2.1.runtimeconfig.dev.json
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\bin\Debug\netcoreapp3.1\laba7.2.2.1.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\bin\Debug\netcoreapp3.1\laba7.2.2.1.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.AssemblyInfoInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.AssemblyInfo.cs
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\laba7\laba7.2.2.1\laba7.2.2.1\obj\Debug\netcoreapp3.1\laba7.2.2.1.genruntimeconfig.cache
